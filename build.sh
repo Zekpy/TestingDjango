@@ -1,4 +1,4 @@
-#!/usr/bin/entornoeze bash
+#!/usr/bin/env bash
 
 set -o errexit
 
